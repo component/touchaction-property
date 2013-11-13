@@ -1,0 +1,21 @@
+{
+  "name": "touchaction-property",
+  "repo": "component/touchaction-property",
+  "description": "Returns \"touchAction\", \"msTouchAction\", or null",
+  "version": "0.0.0",
+  "keywords": [
+    "touch",
+    "action",
+    "ms",
+    "microsoft",
+    "pointer",
+    "events"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
