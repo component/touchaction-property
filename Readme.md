@@ -12,7 +12,13 @@
 
 ## API
 
+``` js
+var touchAction = require('touchaction-property');
 
+if (touchAction) {
+  document.body.style[touchAction] = 'none';
+}
+```
 
 ## License
 
